@@ -1,3 +1,3 @@
 # 2016-illo-binder
 
-Here is some text.
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mandel01/2016-illo-binder)
